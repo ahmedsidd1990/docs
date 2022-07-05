@@ -1,2 +1,3 @@
 this is my file1
 this resides on git repo
+this is new line added in file.txt
