@@ -1,4 +1,4 @@
-this is my file1
-this resides on git repo
+this is our first file1
+this resides on git repo in docs directory
 this is new line added in file.txt
 this is another new line added after latest version of git was installed
